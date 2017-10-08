@@ -7,9 +7,9 @@ app = Flask(__name__)
 def index():
    return render_template("insert_company.html")
 
-@app.route("/companyName=<cName>")
+@app.route("/company.html")
 def classify(cName):
-    return render_template('company.html',name = cName)
+    return render_template("company.html",name = cName)
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
