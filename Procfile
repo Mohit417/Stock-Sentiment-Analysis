@@ -1,1 +1,1 @@
-web: gunicorn stock-sentiment:app
+web: gunicorn run_website:app
