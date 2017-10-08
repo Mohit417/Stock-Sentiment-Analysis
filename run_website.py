@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/hackathon")
 def index():
-   return render_template("insert_company.html")
+   return render_template("/templates/insert_company.html")
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
