@@ -7,7 +7,7 @@ app = Flask(__name__)
 def index():
    return render_template("insert_company.html")
 
-@app.route("/company.html", method = ["GET"])
+@app.route("/insert_company.html", methods = ["GET"])
 def classify():
     cName = request.form['companyName']
     return render_template("company.html",name = cName)
