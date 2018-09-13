@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sentimentstocksp-1507422015877",
+  "private_key_id": "e3093261d17c61ea4d0eda104f8cbaca931f2282",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDzgLWjMNtH3ekS\nWvLP1OJYaAuyLWtmUkEf8Qmr4//4FyYQaUjE0286KvBQtvJXbiDQC6ugxjonxoDS\nTT1k9QT7wOnZDt9ln59l7KkWwh+RWIbML/Cm1VfemidSHHRKt8Mi33FvD5Z0yabg\nWmw7yVb7BmD0AM1cn4llb08w9k17AuXGOAq8Xw7BgYRDBQgdZ4px65TPVHDnndfE\nfUmPOtmP3EkmyfJBEk6zuvpQYBueu1ETa7cAo7424c+Ilb409GrnYxqhrfUPTBFg\noBglr29mYMVO2kKFo2xJNQ09lAOkWKK1hVkWKbDqQ5Bz1W6G3Fj8hNX3lG09/gBj\nf7XP/L3tAgMBAAECggEAFR/d4h3rcBUm0qJUPUZ9KmlAVoFNN2+8WZ6KFcDuZGHx\nuevAVd7338Z42a+9X2tc6l+Q0J5RzkCQzW3I/TiqaYLHZr69D65k4C1DUAegQHY7\nH3yrNnX8rQGXlq6EQjUl9yEGULm79j7GPOFrUVZ6tsVLZO+q4TWv8D5TUu6TMzAW\nVg5rZFiocoGQMrbTllVBrP6f1s+scuAJA+rrfzjwn4eTw14n5c5HsKAUnZTzfmJ+\nFeSTW+qNqlyEfk1zSKYGrF4n8W3l/OF3RlOhXXD3tz7UN8j1sBxnuMRSGKOOcfdf\nHi3f4hdfrvqo538HF2Ah8GnG09xHnUTMsIpwxg09iwKBgQD+YQ4Bz/x0oZriOPne\nvF9KMZhK+kES0AqYU+jzyPkniLFUZezdRmI+ueXTVXFpDiHqVG2KbJVef8XwI/Js\nvqwKDpncPthJ5BZpocFmPtSPEbxuJDq+nIx+DjXXaKwywtI+MkBqBnLnofZTIIXC\nNtOiwhkgTsmSw8l5SlxXDdkH2wKBgQD1DenIrj7zOa2kb4hvaTvw/iUZLwnmdCDo\nOZUDqV/wGU35R/Kdhlpaonfp05Nyf8KDHj1nKJqEJVOIRjmRnu2RNd0+fqsZeNC+\nPu4ysqGj314ZrV99BKoQMgjf7Bwn5O7IlSUv5suqlKyckpl31pYsBC0cihoOhrQ5\nxZXE5uz/1wKBgBh89WE9SXtc11Ex1PQZRD8bOSL2pm8OMgbqBQH69elVYmTSjxPa\nI7kQIkzO6+UGJEOvrv/lZhe7yy1L+Jl5XYx2TV+DeUTbvUCb/sc+Ay5msbIUsMcK\nwQedjJdZD0KvuJeeNM9AIa2kzNbByb6hkowXjV2r2AHV8T5I50zGG3+DAoGAYO1J\n5SiWmZncxseezYJwRRghEF78qXyRb4knGbWqzssTfmAo5Im5v1O33nLjRUynYTla\nzCzRQSeKbMJqDuEv0lnd0tRDVOXmmvlFOiRRrwGwtLNQq6Bmq9U+kWNQl68Di68C\ncHn3YNdBlwSdUzs7VtmoBjvRpqE9NASlAqbcYy0CgYEAxSZq4IMW+ScfTj6oMLwP\nTcaca7twrA3NQUWX7yXvQMN1jl+Q7PTHxumby+aN6mDyMnU8a79EJhkXrClYJ0ZQ\nnD/bR0dfMoBJMtvFd364AdGr0uFQCzeiCRWnqtukNAZFc7ylr418DzCYfyJ1rjDQ\n35PiBycKXQ5pmPI+P2jsaNk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-ydtoc0baddf9@sentimentstocksp-1507422015877.iam.gserviceaccount.com",
+  "client_id": "114433555190279905132",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-ydtoc0baddf9%40sentimentstocksp-1507422015877.iam.gserviceaccount.com"
+}
